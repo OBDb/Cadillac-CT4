@@ -1,0 +1,8 @@
+command_id: DA11.22002F|fc=1,c=14
+test_cases:
+- expected_values:
+    CT4_FLI: 26.27451
+  response: 142AF1110462002F43
+- expected_values:
+    CT4_FLI: 94.11765
+  response: 142AF1110462002FF0
