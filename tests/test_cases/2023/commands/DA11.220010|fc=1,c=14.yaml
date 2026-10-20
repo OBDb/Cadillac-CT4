@@ -1,0 +1,11 @@
+command_id: DA11.220010|fc=1,c=14
+test_cases:
+- expected_values:
+    CT4_MAF: 0
+  response: 142AF111056200100000
+- expected_values:
+    CT4_MAF: 10.19
+  response: 142AF1110562001003FB
+- expected_values:
+    CT4_MAF: 48.87
+  response: 142AF111056200101317

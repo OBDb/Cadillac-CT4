@@ -1,0 +1,11 @@
+command_id: DA11.22005E|fc=1,c=14
+test_cases:
+- expected_values:
+    CT4_FUEL_RATE: 0
+  response: 142AF1110562005E0000
+- expected_values:
+    CT4_FUEL_RATE: 8.3
+  response: 142AF1110562005E00A6
+- expected_values:
+    CT4_FUEL_RATE: 12.9
+  response: 142AF1110562005E0102
