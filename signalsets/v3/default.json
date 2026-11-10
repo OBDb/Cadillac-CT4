@@ -1,4 +1,7 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "DA28", "type": "abs" }
+  ],
+  "commands": [
 { "hdr": "DA11", "pri": "14", "fcm1": true, "cmd": {"22": "0010"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "CT4_MAF", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "gramsPerSecond" }, "name": "Mass airflow sensor", "suggestedMetric": "massAirFlow"}
