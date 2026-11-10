@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.2212D9|fc=1,c=14
+test_cases:
+- expected_values:
+    CT4_TOTAL_KNOCK_RETARD: 0
+  response: 142AF111046212D900

@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.223201|fc=1,c=14
+test_cases:
+- expected_values:
+    CT4_CURRENT_GEAR_VAR_3: 0
+  response: 142AF1110462320100

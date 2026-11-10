@@ -1,0 +1,11 @@
+command_id: DA18.2AF118.221991|fc=1,c=14
+test_cases:
+- expected_values:
+    CT4_TC_SLIP_VSS: 16
+  response: 142AF118056219910080
+- expected_values:
+    CT4_TC_SLIP_VSS: 17.625
+  response: 142AF11805621991008D
+- expected_values:
+    CT4_TC_SLIP_VSS: 18.125
+  response: 142AF118056219910091

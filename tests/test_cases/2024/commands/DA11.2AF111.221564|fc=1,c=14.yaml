@@ -1,0 +1,8 @@
+command_id: DA11.2AF111.221564|fc=1,c=14
+test_cases:
+- expected_values:
+    CT4_AC_HIGH_SIDE_P: 167.66
+  response: 142AF1110462156453
+- expected_values:
+    CT4_AC_HIGH_SIDE_P: 169.68
+  response: 142AF1110462156454

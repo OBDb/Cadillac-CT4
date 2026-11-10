@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.2212C4|fc=1,c=14
+test_cases:
+- expected_values:
+    CT4_INJECTOR_DUTY_CYCLE_BANK_2: 0
+  response: 142AF111056212C40000
