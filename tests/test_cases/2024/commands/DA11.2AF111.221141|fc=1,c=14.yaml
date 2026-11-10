@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.221141|fc=1,c=14
+test_cases:
+- expected_values:
+    CT4_IGN_1_V: 13.8
+  response: 142AF111046211418A

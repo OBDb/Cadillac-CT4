@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.220042|fc=1,c=14
+test_cases:
+- expected_values:
+    CT4_CTRL_MODULE_V: 13.832
+  response: 142AF111056200423608
+- expected_values:
+    CT4_CTRL_MODULE_V: 13.856
+  response: 142AF111056200423620
+- expected_values:
+    CT4_CTRL_MODULE_V: 13.894
+  response: 142AF111056200423646

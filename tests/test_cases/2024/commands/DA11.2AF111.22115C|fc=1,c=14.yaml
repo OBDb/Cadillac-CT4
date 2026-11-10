@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.22115C|fc=1,c=14
+test_cases:
+- expected_values:
+    CT4_EOP_2: 25.8
+  response: 142AF1110462115C4F
+- expected_values:
+    CT4_EOP_2: 28.2
+  response: 142AF1110462115C53
+- expected_values:
+    CT4_EOP_2: 29.4
+  response: 142AF1110462115C55
