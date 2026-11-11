@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     CT4_TF_T_FLTED: 75
   response: 142AF1180462295A73
+- expected_values:
+    CT4_TF_T_FLTED: 98
+  response: 142AF1180462295A8A
+- expected_values:
+    CT4_TF_T_FLTED: 99
+  response: 142AF1180462295A8B
