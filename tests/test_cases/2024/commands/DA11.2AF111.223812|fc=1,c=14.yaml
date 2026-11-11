@@ -1,5 +1,11 @@
 command_id: DA11.2AF111.223812|fc=1,c=14
 test_cases:
 - expected_values:
+    CT4_COOLING_FAN_CMD: 0
+  response: 142AF1110462381200
+- expected_values:
     CT4_COOLING_FAN_CMD: 21.56863
   response: 142AF1110462381237
+- expected_values:
+    CT4_COOLING_FAN_CMD: 54.11765
+  response: 142AF111046238128A

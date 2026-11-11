@@ -1,6 +1,12 @@
 command_id: DA11.2AF111.2211A1|fc=1,c=14
 test_cases:
 - expected_values:
+    CT4_RUNTM: 0
+  response: 142AF111056211A10000
+- expected_values:
+    CT4_RUNTM: 15
+  response: 142AF111056211A1000F
+- expected_values:
     CT4_RUNTM: 904
   response: 142AF111056211A10388
 - expected_values:

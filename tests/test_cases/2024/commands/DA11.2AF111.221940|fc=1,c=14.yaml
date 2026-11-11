@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     CT4_ATF_T_VAR_1: 75
   response: 142AF1110462194073
+- expected_values:
+    CT4_ATF_T_VAR_1: 98
+  response: 142AF111046219408A

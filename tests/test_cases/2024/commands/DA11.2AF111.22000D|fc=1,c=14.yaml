@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CT4_VSS: 0
   response: 142AF1110462000D00
+- expected_values:
+    CT4_VSS: null
+  response: 142AF1110462000DFF

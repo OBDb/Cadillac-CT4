@@ -1,8 +1,14 @@
 command_id: DA11.2AF111.2212C3|fc=1,c=14
 test_cases:
 - expected_values:
+    CT4_INJECTOR_DUTY_CYCLE_BANK_1: 0
+  response: 142AF111056212C30000
+- expected_values:
     CT4_INJECTOR_DUTY_CYCLE_BANK_1: 0.915
   response: 142AF111056212C3003D
 - expected_values:
     CT4_INJECTOR_DUTY_CYCLE_BANK_1: 0.945
   response: 142AF111056212C3003F
+- expected_values:
+    CT4_INJECTOR_DUTY_CYCLE_BANK_1: 1.455
+  response: 142AF111056212C30061

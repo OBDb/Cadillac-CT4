@@ -1,5 +1,8 @@
 command_id: DA18.2AF118.222889|fc=1,c=14
 test_cases:
 - expected_values:
+    CT4_GEAR_POS: 7
+  response: 142AF1180462288907
+- expected_values:
     CT4_GEAR_POS: 8
   response: 142AF1180462288908

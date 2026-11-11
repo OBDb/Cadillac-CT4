@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CT4_OUTPUT_SHFT_SPD: 0
   response: 142AF118056219420000
+- expected_values:
+    CT4_OUTPUT_SHFT_SPD: 82.75
+  response: 142AF11805621942014B
