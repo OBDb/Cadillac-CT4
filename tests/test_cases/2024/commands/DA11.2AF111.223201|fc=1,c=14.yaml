@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     CT4_CURRENT_GEAR_VAR_3: 0
   response: 142AF1110462320100
+- expected_values:
+    CT4_CURRENT_GEAR_VAR_3: 1
+  response: 142AF1110462320101
+- expected_values:
+    CT4_CURRENT_GEAR_VAR_3: 4
+  response: 142AF1110462320104
+- expected_values:
+    CT4_CURRENT_GEAR_VAR_3: 7
+  response: 142AF1110462320107

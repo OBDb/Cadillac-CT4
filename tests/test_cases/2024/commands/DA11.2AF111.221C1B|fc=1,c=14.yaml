@@ -4,6 +4,15 @@ test_cases:
     CT4_EOP_CALC: 4
   response: 142AF11104621C1B01
 - expected_values:
+    CT4_EOP_CALC: 152
+  response: 142AF11104621C1B26
+- expected_values:
+    CT4_EOP_CALC: 172
+  response: 142AF11104621C1B2B
+- expected_values:
+    CT4_EOP_CALC: 176
+  response: 142AF11104621C1B2C
+- expected_values:
     CT4_EOP_CALC: 188
   response: 142AF11104621C1B2F
 - expected_values:

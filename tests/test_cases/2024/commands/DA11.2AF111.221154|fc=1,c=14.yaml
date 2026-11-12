@@ -7,6 +7,18 @@ test_cases:
     CT4_EOT_CALC: 64
   response: 142AF1110462115468
 - expected_values:
+    CT4_EOT_CALC: 93
+  response: 142AF1110462115485
+- expected_values:
+    CT4_EOT_CALC: 95
+  response: 142AF1110462115487
+- expected_values:
+    CT4_EOT_CALC: 97
+  response: 142AF1110462115489
+- expected_values:
+    CT4_EOT_CALC: 98
+  response: 142AF111046211548A
+- expected_values:
     CT4_EOT_CALC: 99
   response: 142AF111046211548B
 - expected_values:

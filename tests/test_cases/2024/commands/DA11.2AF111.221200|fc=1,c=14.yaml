@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CT4_TOTAL_MISFIRE: 0
   response: 142AF1110462120000
+- expected_values:
+    CT4_TOTAL_MISFIRE: 2
+  response: 142AF1110462120002
