@@ -10,6 +10,12 @@ test_cases:
     CT4_EOT: 85
   response: 142AF1110462005C7D
 - expected_values:
+    CT4_EOT: 97
+  response: 142AF1110462005C89
+- expected_values:
+    CT4_EOT: 98
+  response: 142AF1110462005C8A
+- expected_values:
     CT4_EOT: 99
   response: 142AF1110462005C8B
 - expected_values:

@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     CT4_OUTPUT_SHFT_SPD: 82.75
   response: 142AF11805621942014B
+- expected_values:
+    CT4_OUTPUT_SHFT_SPD: 430.25
+  response: 142AF1180562194206B9
+- expected_values:
+    CT4_OUTPUT_SHFT_SPD: 619.25
+  response: 142AF1180562194209AD
+- expected_values:
+    CT4_OUTPUT_SHFT_SPD: 648.25
+  response: 142AF118056219420A21
+- expected_values:
+    CT4_OUTPUT_SHFT_SPD: 1776.5
+  response: 142AF118056219421BC2
+- expected_values:
+    CT4_OUTPUT_SHFT_SPD: 2545
+  response: 142AF1180562194227C4

@@ -4,8 +4,20 @@ test_cases:
     CT4_COOLING_FAN_MOTOR_CMD: 0
   response: 142AF111046213AF00
 - expected_values:
+    CT4_COOLING_FAN_MOTOR_CMD: 5.88235
+  response: 142AF111046213AF0F
+- expected_values:
     CT4_COOLING_FAN_MOTOR_CMD: 21.56863
   response: 142AF111046213AF37
 - expected_values:
+    CT4_COOLING_FAN_MOTOR_CMD: 23.52941
+  response: 142AF111046213AF3C
+- expected_values:
+    CT4_COOLING_FAN_MOTOR_CMD: 34.11765
+  response: 142AF111046213AF57
+- expected_values:
     CT4_COOLING_FAN_MOTOR_CMD: 56.07843
   response: 142AF111046213AF8F
+- expected_values:
+    CT4_COOLING_FAN_MOTOR_CMD: 56.86275
+  response: 142AF111046213AF91

@@ -4,6 +4,21 @@ test_cases:
     CT4_IGN_1_V: 0
   response: 142AF1110462114100
 - expected_values:
+    CT4_IGN_1_V: 12.3
+  response: 142AF111046211417B
+- expected_values:
+    CT4_IGN_1_V: 12.4
+  response: 142AF111046211417C
+- expected_values:
+    CT4_IGN_1_V: 12.5
+  response: 142AF111046211417D
+- expected_values:
+    CT4_IGN_1_V: 12.6
+  response: 142AF111046211417E
+- expected_values:
+    CT4_IGN_1_V: 12.9
+  response: 142AF1110462114181
+- expected_values:
     CT4_IGN_1_V: 13
   response: 142AF1110462114182
 - expected_values:

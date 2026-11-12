@@ -1,6 +1,12 @@
 command_id: DA18.2AF118.222862|fc=1,c=14
 test_cases:
 - expected_values:
+    CT4_TRANS_P: 8064
+  response: 142AF118056228621F80
+- expected_values:
+    CT4_TRANS_P: 8893
+  response: 142AF1180562286222BD
+- expected_values:
     CT4_TRANS_P: 9553
   response: 142AF118056228622551
 - expected_values:
@@ -9,3 +15,6 @@ test_cases:
 - expected_values:
     CT4_TRANS_P: 11557
   response: 142AF118056228622D25
+- expected_values:
+    CT4_TRANS_P: 13786
+  response: 142AF1180562286235DA

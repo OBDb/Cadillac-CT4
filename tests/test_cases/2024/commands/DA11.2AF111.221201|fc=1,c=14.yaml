@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CT4_MIS_HISTORY_1: 0
   response: 142AF111056212010000
+- expected_values:
+    CT4_MIS_HISTORY_1: 1
+  response: 142AF111056212010001
