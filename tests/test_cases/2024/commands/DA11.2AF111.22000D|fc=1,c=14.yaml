@@ -13,6 +13,12 @@ test_cases:
     CT4_VSS: 8
   response: 142AF1110462000D08
 - expected_values:
+    CT4_VSS: 16
+  response: 142AF1110462000D10
+- expected_values:
+    CT4_VSS: 32
+  response: 142AF1110462000D20
+- expected_values:
     CT4_VSS: 34
   response: 142AF1110462000D22
 - expected_values:
