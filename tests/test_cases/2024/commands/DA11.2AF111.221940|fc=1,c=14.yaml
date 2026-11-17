@@ -1,6 +1,12 @@
 command_id: DA11.2AF111.221940|fc=1,c=14
 test_cases:
 - expected_values:
+    CT4_ATF_T_VAR_1: 57
+  response: 142AF1110462194061
+- expected_values:
+    CT4_ATF_T_VAR_1: 61
+  response: 142AF1110462194065
+- expected_values:
     CT4_ATF_T_VAR_1: 73
   response: 142AF1110462194071
 - expected_values:
