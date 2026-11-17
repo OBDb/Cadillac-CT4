@@ -4,8 +4,8 @@ test_cases:
     CT4_CTRL_MODULE_V: 0
   response: 142AF111056200420000
 - expected_values:
-    CT4_CTRL_MODULE_V: 12.467
-  response: 142AF1110562004230B3
+    CT4_CTRL_MODULE_V: 13.817
+  response: 142AF1110562004235F9
 - expected_values:
     CT4_CTRL_MODULE_V: 13.832
   response: 142AF111056200423608

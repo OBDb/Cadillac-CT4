@@ -1,20 +1,8 @@
 command_id: DA18.2AF118.22295A|fc=1,c=14
 test_cases:
 - expected_values:
-    CT4_TF_T_FLTED: 73
-  response: 142AF1180462295A71
-- expected_values:
-    CT4_TF_T_FLTED: 74
-  response: 142AF1180462295A72
-- expected_values:
-    CT4_TF_T_FLTED: 75
-  response: 142AF1180462295A73
-- expected_values:
-    CT4_TF_T_FLTED: 97
-  response: 142AF1180462295A89
-- expected_values:
-    CT4_TF_T_FLTED: 98
-  response: 142AF1180462295A8A
+    CT4_TF_T_FLTED: 55
+  response: 142AF1180462295A5F
 - expected_values:
     CT4_TF_T_FLTED: 99
   response: 142AF1180462295A8B

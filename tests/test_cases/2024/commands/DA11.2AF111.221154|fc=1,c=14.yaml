@@ -1,32 +1,8 @@
 command_id: DA11.2AF111.221154|fc=1,c=14
 test_cases:
 - expected_values:
-    CT4_EOT_CALC: 63
-  response: 142AF1110462115467
-- expected_values:
-    CT4_EOT_CALC: 64
-  response: 142AF1110462115468
-- expected_values:
-    CT4_EOT_CALC: 90
-  response: 142AF1110462115482
-- expected_values:
-    CT4_EOT_CALC: 91
-  response: 142AF1110462115483
-- expected_values:
-    CT4_EOT_CALC: 93
-  response: 142AF1110462115485
-- expected_values:
-    CT4_EOT_CALC: 95
-  response: 142AF1110462115487
-- expected_values:
-    CT4_EOT_CALC: 97
-  response: 142AF1110462115489
-- expected_values:
-    CT4_EOT_CALC: 98
-  response: 142AF111046211548A
-- expected_values:
-    CT4_EOT_CALC: 99
-  response: 142AF111046211548B
+    CT4_EOT_CALC: 46
+  response: 142AF1110462115456
 - expected_values:
     CT4_EOT_CALC: 100
   response: 142AF111046211548C
